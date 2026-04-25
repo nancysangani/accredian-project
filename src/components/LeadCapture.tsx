@@ -89,7 +89,7 @@ export default function LeadCapture() {
             <div className="absolute -inset-4 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-3xl opacity-10 blur-2xl" />
 
             {/* Form card */}
-            <div className="relative bg-white rounded-3xl p-8 md:p-10 shadow-2xl border border-white">
+            <div className="relative bg-white rounded-3xl p-8 md:p-10 shadow-2xl border border-white overflow-hidden">
               {/* Top accent line */}
               <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-400 via-blue-600 to-cyan-400 rounded-t-3xl" />
 
