@@ -16,6 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='75' font-size='75' fill='%230066FF'>A</text></svg>" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
@@ -30,9 +31,7 @@ export default function RootLayout({
         <link
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
-          integrity="sha512-iecdLmaskl7CVJkEZSMUkrQ6usKNU8gohB5qZ7Ns3V0eohBX1NU8TrWDMxfgqub0gniUvFIrrU94nYfuQncinA=="
           crossOrigin="anonymous"
-          referrerPolicy="no-referrer"
         />
       </head>
       <body>{children}</body>
