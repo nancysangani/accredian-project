@@ -166,7 +166,7 @@ export default function Testimonials() {
             <div className="absolute -inset-1 bg-gradient-to-r from-blue-400 to-cyan-400 rounded-2xl opacity-0 group-hover:opacity-20 transition-opacity duration-300 blur-lg" />
 
             {/* Card */}
-            <div className="relative bg-white rounded-2xl p-8 md:p-12 border border-gray-200 group-hover:border-blue-300 hover:shadow-xl transition-all duration-300">
+            <div className="relative bg-white rounded-2xl p-8 md:p-12 border border-gray-200 group-hover:border-blue-300 hover:shadow-xl transition-all duration-300 overflow-hidden">
               {/* Top accent */}
               <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-400 via-blue-600 to-cyan-400 rounded-t-2xl" />
 
