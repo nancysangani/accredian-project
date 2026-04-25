@@ -1,0 +1,24 @@
+{
+  "leads": [
+    {
+      "id": "lead_1777035041290_i31nbmofz",
+      "name": "Nancy Sangani",
+      "email": "pqr@gmail.com",
+      "company": "SecureSync Inc.",
+      "timestamp": "2026-04-24T12:50:41.290Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "ipAddress": "::1"
+    },
+    {
+      "id": "lead_1777109611994_x66ihjx3u",
+      "name": "Nancy Sangani",
+      "email": "nancysangani299@gmail.com",
+      "company": "SecureSync Inc.",
+      "timestamp": "2026-04-25T09:33:31.994Z",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+      "ipAddress": "::1"
+    }
+  ],
+  "count": 2,
+  "lastUpdated": "2026-04-25T09:33:31.994Z"
+}
