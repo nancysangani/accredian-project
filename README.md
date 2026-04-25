@@ -2,8 +2,8 @@
 
 > A production-ready SaaS landing page clone with advanced features, scroll animations, carousel components, FAQ section, and a full blog system. Built with Next.js 14, React 18, TypeScript, and Tailwind CSS.
 
-**Live Demo:** [Deploy on Vercel](#deployment-section)  
-**GitHub:** [github.com/yourname/accredian-project](#)
+**Live Demo:** https://accredian-project-ruddy.vercel.app/  
+**GitHub:** https://github.com/nancysangani/accredian-project
 
 ---
 
@@ -94,8 +94,6 @@ This is a complete recreation of the Accredian enterprise learning platform focu
    - Applied Tailwind CSS utility classes
    - Set up custom animations (slideUp, fadeIn, float)
    - Configured responsive breakpoints
-
-**Time Saved by AI:** ~4-5 hours of boilerplate code setup
 
 ---
 
@@ -314,7 +312,7 @@ src/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourname/accredian-project.git
+git clone https://github.com/nancysangani/accredian-project.git
 cd accredian-project
 
 # Install dependencies
@@ -449,9 +447,8 @@ This project is created for educational purposes as part of an internship applic
 
 ## 🤝 Contact
 
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email]
+- **GitHub:** https://github.com/nancysangani
+- **LinkedIn:** https://www.linkedin.com/in/nancy-sangani-a2938132b
 
 ---
 
